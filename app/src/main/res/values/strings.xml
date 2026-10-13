@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">جامع‌الأحادیث منصور</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_books">کتابخانه</string>
+    <string name="nav_search">جستجو</string>
+    <string name="nav_compare">مقایسه</string>
+    <string name="nav_bookmarks">نشان‌شده‌ها</string>
+    <string name="nav_notes">یادداشت‌ها</string>
+    <string name="nav_assistant">دستیار هوشمند</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <!-- Home Dashboard -->
+    <string name="dashboard_subtitle">سامانه جامع پژوهش و مطالعه احادیث فریقین</string>
+    <string name="search_placeholder">جستجو در متن عربی، ترجمه یا اسناد احادیث…</string>
+    <string name="section_shia_library">کتابخانه شیعه</string>
+    <string name="section_sunni_library">کتابخانه اهل‌سنت</string>
+    <string name="section_continue_reading">ادامه مطالعه</string>
+    <string name="section_daily_hadith">حدیث برگزیده روز</string>
+    <string name="section_quick_access">دسترسی سریع</string>
+
+    <!-- Reading & Reader -->
+    <string name="hadith_number">حدیث شماره %d</string>
+    <string name="book_reference">منبع: %1$s، جلد %2$s، صفحه %3$s</string>
+    <string name="toggle_translation">نمایش ترجمه فارسی</string>
+    <string name="toggle_isnad">سلسله راویان و سند</string>
+    <string name="action_copy">کپی متن با ارجاع</string>
+    <string name="action_share">اشتراک‌گذاری</string>
+    <string name="action_bookmark">نشان کردن</string>
+    <string name="action_add_note">افزودن یادداشت</string>
+    <string name="action_compare">افزودن به مقایسه</string>
+    <string name="font_size_label">اندازه قلم: %d</string>
+    <string name="theme_sepia">حالت سپیا (پوست‌نوشته)</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تاریک</string>
+
+    <!-- Search -->
+    <string name="search_title">جستجوی پیشرفته احادیث</string>
+    <string name="search_filter_all">همه مصادر</string>
+    <string name="search_filter_shia">تنها مصادر شیعه</string>
+    <string name="search_filter_sunni">تنها مصادر اهل‌سنت</string>
+    <string name="search_no_results">هیچ روایتی مطابق با عبارت جستجو یافت نشد.</string>
+    <string name="search_results_count">%d روایت یافت شد</string>
+    <string name="search_hint_diacritics">جستجو بدون حساسیت به اعراب و با یکسان‌سازی حروف ی/ک انجام می‌شود.</string>
+
+    <!-- Assistant -->
+    <string name="assistant_title">دستیار پژوهشی حدیث</string>
+    <string name="assistant_welcome">پرسش علمی خود را درباره واژگان، موضوعات یا احادیث بپرسید. پاسخ‌ها مستند به کتب روایی برنامه خواهد بود.</string>
+    <string name="assistant_placeholder">پرسش علمی یا مفهوم مورد نظر را بنویسید…</string>
+    <string name="assistant_disclaimer">تذکر پژوهشی: این دستیار صرفاً جهت راهنمایی علمی در محدوده کتب موجود است و فاقد حجیت فقهی یا فتوایی می‌باشد.</string>
+    <string name="assistant_send">ارسال پرسش</string>
+    <string name="assistant_analyzing">در حال بررسی روایات و تنظیم پاسخ مستند…</string>
+
+    <!-- Compare & Workspace -->
+    <string name="compare_title">میزکار تطبیق و مقایسه روایات</string>
+    <string name="compare_empty">هنوز روایتی به بخش مقایسه اضافه نشده است. می‌توانید در صفحه مطالعه با زدن دکمه «مقایسه»، احادیث مورد نظر را کنار هم بیاورید.</string>
+    <string name="compare_clear">پاکسازی لیست مقایسه</string>
+
+    <!-- Notes & Bookmarks -->
+    <string name="notes_title">یادداشت‌های پژوهشی</string>
+    <string name="notes_empty">هنوز هیچ یادداشتی ثبت نکرده‌اید.</string>
+    <string name="note_save">ذخیره یادداشت</string>
+    <string name="note_cancel">انصراف</string>
+    <string name="note_placeholder">نکات تحلیلی و ملاحظات سندی خود را اینجا بنویسید…</string>
+    <string name="bookmarks_title">احادیث نشان‌شده</string>
+    <string name="bookmarks_empty">هیچ روایتی نشان نشده است.</string>
+
+    <!-- Settings & About -->
+    <string name="settings_title">تنظیمات و منابع</string>
+    <string name="about_title">درباره جامع‌الأحادیث منصور</string>
+    <string name="about_desc">سامانه نرم‌افزاری «جامع‌الأحادیث منصور» با هدف تسهیل پژوهش‌های تطبیقی و مطالعه احادیث اسلامی طراحی گردیده است. در این برنامه کتب اصیل فریقین با رعایت امانت‌داری علمی، اعراب‌گذاری دقیق و تفکیک شفاف ارائه شده‌اند.</string>
+    <string name="copied_to_clipboard">متن حدیث همراه با ارجاع کپی شد.</string>
+    <string name="bookmark_added">حدیث به نشان‌شده‌ها افزوده شد.</string>
+    <string name="bookmark_removed">حدیث از نشان‌شده‌ها حذف شد.</string>
+    <string name="app_creator">سازنده و پژوهشگر: حجت الاسلام امیررضا نصیری</string>
+</resources>

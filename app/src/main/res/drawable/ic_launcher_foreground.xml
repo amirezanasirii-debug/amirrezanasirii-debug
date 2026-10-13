@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star/rays motif at top center -->
+    <path
+        android:fillColor="#D7B77A"
+        android:pathData="M54,26 L56,31 L61,31 L57,34 L59,39 L54,36 L49,39 L51,34 L47,31 L52,31 Z" />
+
+    <!-- Open scripture book left page -->
+    <path
+        android:fillColor="#FAF6ED"
+        android:pathData="M52,43 C42,40 31,43 27,45 C26,45.5 25.5,46.5 25.5,47.5 L25.5,69.5 C25.5,70.5 26.5,71.5 27.5,71 C32,69 41.5,66.5 52,70 Z" />
+
+    <!-- Open scripture book right page -->
+    <path
+        android:fillColor="#FAF6ED"
+        android:pathData="M56,43 C66,40 77,43 81,45 C82,45.5 82.5,46.5 82.5,47.5 L82.5,69.5 C82.5,70.5 81.5,71.5 80.5,71 C76,69 66.5,66.5 56,70 Z" />
+
+    <!-- Book spine / center fold -->
+    <path
+        android:fillColor="#D7B77A"
+        android:pathData="M52.5,43 L55.5,43 L55.5,71.5 L52.5,71.5 Z" />
+
+    <!-- Scripture lines left page -->
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M31,50 L48,47 L48,48.5 L31,51.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M31,54 L48,51 L48,52.5 L31,55.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M33,58 L48,55 L48,56.5 L33,59.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M35,62 L48,59 L48,60.5 L35,63.5 Z" />
+
+    <!-- Scripture lines right page -->
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M60,47 L77,50 L77,51.5 L60,48.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M60,51 L77,54 L77,55.5 L60,52.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M60,55 L75,58 L75,59.5 L60,56.5 Z" />
+    <path
+        android:fillColor="#075E4A"
+        android:pathData="M60,59 L73,62 L73,63.5 L60,60.5 Z" />
+
+    <!-- Bookmark ribbon -->
+    <path
+        android:fillColor="#D7B77A"
+        android:pathData="M53,70 L55,70 L55,79 L54,77.5 L53,79 Z" />
+
+    <!-- Book base support stand (Rehal) -->
+    <path
+        android:fillColor="#C8A563"
+        android:pathData="M34,73 L74,73 C75,73 75.5,74 74.5,75 L67,82 L41,82 L33.5,75 C32.5,74 33,73 34,73 Z" />
+    <path
+        android:fillColor="#063D32"
+        android:pathData="M51,75 L57,75 L56,79 L52,79 Z" />
+</vector>

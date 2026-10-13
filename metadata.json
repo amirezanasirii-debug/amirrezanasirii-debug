@@ -1,0 +1,6 @@
+{
+  "name": "جامع‌الأحادیث منصور",
+  "description": "پلتفرم جامع و تخصصی پژوهش، مطالعه و جستجوی احادیث شیعه و اهل‌سنت | سازنده و پژوهشگر: حجت الاسلام امیررضا نصیری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
